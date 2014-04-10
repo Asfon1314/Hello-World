@@ -11,5 +11,5 @@ int Ipoint::GetPoint()
 
 void Ipoint::Foo()
 {
-	std::cout<<"Testu"<<std::endl;
+	std::cout<<"A Simple Test"<<std::endl;
 }
