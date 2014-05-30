@@ -17,7 +17,7 @@ class Foo
 
 int main()
 {
-	Foo re;
+	Foo re
 	Foo we;
 	auto f= mem_fn(&Foo::TT,&re);
 	f();
