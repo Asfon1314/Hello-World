@@ -13,5 +13,5 @@ void Ipoint::Foo()
 {
 	std::cout<<"A Simple Test"<<std::endl;
 }
-a=2;
+a=3;
 void nothing(){}
