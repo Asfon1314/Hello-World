@@ -16,3 +16,4 @@ void Ipoint::Foo()
 }
 a=3;
 void nothing(){}
+//add in the end
